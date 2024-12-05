@@ -1,6 +1,7 @@
 # Terraform Cloud Infrastructure Project
 
-This project provides a modularized Terraform configuration to deploy a robust cloud infrastructure on AWS. It consists of multiple modules designed to provision and manage essential cloud resources, ensuring scalability, security, and high availability.
+This repository contains the Terraform configuration to provision the cloud infrastructure for the [app-example](<https://github.com/tomas-lucena/app-example>). The application is deployed on AWS, leveraging services like Elastic Container Registry (ECR), Elastic Container Service (ECS), and PostgreSQL RDS. This Terraform project ensures a scalable, secure, and efficient infrastructure setup.
+
 
 ---
 
