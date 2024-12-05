@@ -53,16 +53,3 @@ The project uses several input variables. Below are the key variables and their 
 
 ---
 
-## Outputs
-
-Key outputs from this configuration:
-
-| Output                   | Description                                         |
-|--------------------------|-----------------------------------------------------|
-| `vpc_id`                 | ID of the created VPC.                              |
-| `private_subnets_id`     | List of private subnet IDs.                         |
-| `public_subnets_id`      | List of public subnet IDs.                          |
-| `alb_dns_name`           | DNS name of the Application Load Balancer.          |
-| `database_address`       | Endpoint address of the database.                   |
-
----
